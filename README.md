@@ -221,9 +221,3 @@ This project serves as a practical example of:
 ## License
 
 This project is provided for educational, demonstration, and learning purposes.
-
----
-
-## Author
-
-Developed using Microsoft Copilot Studio, Power Automate, and Microsoft Power Platform to demonstrate conversational AI-powered food ordering workflows.
